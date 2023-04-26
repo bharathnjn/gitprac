@@ -11,7 +11,7 @@ class PalindromeExample{
 <<<<<<< HEAD
    n=n/10;    
 =======
-   n=n/1000;    
+   n=n/1+1;    
 >>>>>>> f0ea4c27db986c8e2852d2930e32784640d6c069
   }    
   if(temp==sum)    
